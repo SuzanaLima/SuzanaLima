@@ -1,5 +1,3 @@
-### Hi there 👋
-# About me
 ## Sobre mim :closed_book:
 Desenvolvedora analista de software, formada em ciências da computação, paulista, 
 28 anos, dorameira e corredora nas horas vagas. 
